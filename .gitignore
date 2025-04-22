@@ -3,3 +3,4 @@ mobilenet_v2*.h5
 bottles-dataset.zip
 bottles-dataset/
 data/
+output/
